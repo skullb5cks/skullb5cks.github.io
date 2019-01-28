@@ -44,3 +44,8 @@ heroku container:push web 실행
 > no basic auth credentials ▸ Error: docker push exited with Error: 1 에러가 난다면  
 > heroku container:login 실행  
 
+
+heroku container:release web 실행  
+heroku open 실행
+
+
