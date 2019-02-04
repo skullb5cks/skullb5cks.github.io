@@ -1,0 +1,6 @@
+Docker 사용법  
+1. Docker Container 삭제  
+  $ docker rm $(docker ps -a -q)  
+  
+2. Docker images 전체 삭제  
+  $ docker rmi $(docker images -q)  
