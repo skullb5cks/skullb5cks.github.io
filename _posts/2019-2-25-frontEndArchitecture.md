@@ -1,5 +1,9 @@
+---
+layout: post
+title: front-end architecture with nodejs
+---
 
-nginx, nodejs(graphql, expressjs, nextjs), tomcat(rest api), db  
+nginx, nodejs(graphql, expressjs, nextjs), tomcat(rest api), db
   
 nodejs 사용이유  
 1. SSR
