@@ -17,4 +17,7 @@ graphql 사용이요
 
 Todo  
 1. graphql 
-2. graphql with rest api . 
+2. graphql with rest api  
+  
+reference  
+https://www.slideshare.net/Kivol/graphql-in-action-rest  
