@@ -9,6 +9,9 @@ nodejs 사용이유
 1. SSR
 2. view를 위한 rest api 조합(graphql)  
   - https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d  
+3. 인증  
+  - SPA의 라우터 마다 인증을 다르게 가저갈 경우 노드서버에서 처리가 가능  
+  
     
 graphql 사용이유
 1. 필요하지 않은 정보는 가져오지 않는다.(over fetching 없는 리소스 구현)
