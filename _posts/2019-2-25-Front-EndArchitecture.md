@@ -13,9 +13,12 @@ nodejs 사용이유
   - SPA의 라우터 마다 인증을 다르게 가저갈 경우 노드서버에서 처리가 가능  
   
     
-graphql 사용이유
+graphql  
 1. 필요하지 않은 정보는 가져오지 않는다.(over fetching 없는 리소스 구현)
-2. 다중 api 요청이 필요한 경우 하나의 api로 응답할 수 있다. (under fetching)
+2. 다중 api 요청이 필요한 경우 하나의 api로 응답할 수 있다. (under fetching)  
+3. Post 요청으로 payload에 string으로 query를 보내고 해당 string를 parse하여 질의 한다.
+4. 캐시 되지 않는다
+
   
 
 Todo  
